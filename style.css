@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+.cv-container{
+    height: 800px;
+    width: 600px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 0 27%;
+}
+.title{
+    margin: 0 31%;
+    /* border: 2px solid red; */
+}
+.heading{
+    height: 120px;
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+   
+}
+.imagesection{
+    height: 110px;
+    width: 85px;
+    border: 2px solid black;
+    margin-right: 3px;
+}
+.imagesection img{
+   height: 106px;
+}
+.educational{
+    margin-top: 20px;
+}
+.headi{
+    margin-left: 35%;
+    text-decoration: underline;
+}
+.content{
+    margin-left: 16px;
+}
+table{
+    width: 41vw;
+}
+thead{
+    font-weight: bold;
+}
